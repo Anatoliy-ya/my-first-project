@@ -1,0 +1,35 @@
+
+
+.new-task__control {
+  text-align: center;
+  margin: 1rem;
+  padding-block: 1rem;
+  margin-inline: 2rem;
+  
+}
+
+.new-task__text label {
+  font-size: 2rem;
+}
+
+.new-task__text input {
+  text-align: center;
+  width: 50rem;
+  margin: 1rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0.5rem 0rem;
+  font-size: 20px;
+}
+
+
+.new-task__act button { /* кнопка добавления новой задачи*/
+  color:aliceblue;
+  padding: 0.7rem;
+  margin: 10px;
+  background-color: rgb(0, 148, 99);
+  border: 2px solid rgb(1, 105, 41);
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 1rem;
+} 

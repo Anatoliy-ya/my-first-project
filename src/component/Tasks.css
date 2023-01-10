@@ -1,0 +1,66 @@
+
+.task__list { /* ЗАДАЧА */
+  text-align: center;
+  
+}
+.task__list h2 {
+  font-size: 30px;
+  margin: 0.5rem;
+  
+}
+.task-list__text  {
+  border-radius: 6px;
+  text-align: center;
+  list-style-type:none;
+  border: 2px solid black;
+  box-shadow: 0 1px 3px;
+  margin: 3rem;
+  margin-top: 1rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 1.3rem;
+  
+}
+
+.task-list__text li {
+  background: linear-gradient(to left, #f85a6f, rgb(65, 255, 192) 100%);
+  background-position: 0 100%;
+  background-size: 100% 2px;
+  background-repeat: repeat-x;
+   
+}
+
+.task__list ul {
+  padding: 0;
+}
+
+
+.task-list__text button {
+  padding: 0.7rem;
+  margin: 10px;
+  background-color: aquamarine;
+  border: 2px solid rgb(2, 173, 116);
+  border-radius: 6px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.control-delete {
+  padding: 0.7rem;
+  margin: 10px;
+  background-color: rgb(248, 160, 160);
+  border: 2px solid rgb(173, 2, 11);
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.block-button {
+  display: flex;
+  justify-content: center;
+  padding-top:1rem;
+  
+}
+
+
+
